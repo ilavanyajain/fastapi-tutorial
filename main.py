@@ -41,4 +41,4 @@ def delete_book(book_id: UUID):
     counter = 0
     for x in BOOKS:
         counter += 1
-        if x.id
+        
